@@ -1,0 +1,11 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\FruitShop\bin\Debug\netcoreapp2.2\FruitShop.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\FruitShop\bin\Debug\netcoreapp2.2\FruitShop.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\FruitShop\bin\Debug\netcoreapp2.2\FruitShop.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\FruitShop\bin\Debug\netcoreapp2.2\FruitShop.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\FruitShop\bin\Debug\netcoreapp2.2\FruitShop.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\FruitShop\obj\Debug\netcoreapp2.2\FruitShop.csprojAssemblyReference.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\FruitShop\obj\Debug\netcoreapp2.2\FruitShop.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\FruitShop\obj\Debug\netcoreapp2.2\FruitShop.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\FruitShop\obj\Debug\netcoreapp2.2\FruitShop.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\FruitShop\obj\Debug\netcoreapp2.2\FruitShop.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\FruitShop\obj\Debug\netcoreapp2.2\FruitShop.pdb

@@ -1,0 +1,10 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\OddEvenSum\bin\Debug\netcoreapp2.2\OddEvenSum.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\OddEvenSum\bin\Debug\netcoreapp2.2\OddEvenSum.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\OddEvenSum\bin\Debug\netcoreapp2.2\OddEvenSum.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\OddEvenSum\bin\Debug\netcoreapp2.2\OddEvenSum.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\OddEvenSum\bin\Debug\netcoreapp2.2\OddEvenSum.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\OddEvenSum\obj\Debug\netcoreapp2.2\OddEvenSum.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\OddEvenSum\obj\Debug\netcoreapp2.2\OddEvenSum.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\OddEvenSum\obj\Debug\netcoreapp2.2\OddEvenSum.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\OddEvenSum\obj\Debug\netcoreapp2.2\OddEvenSum.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\OddEvenSum\obj\Debug\netcoreapp2.2\OddEvenSum.pdb

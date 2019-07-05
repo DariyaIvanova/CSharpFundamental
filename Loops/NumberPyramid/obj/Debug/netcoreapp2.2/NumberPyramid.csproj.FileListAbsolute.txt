@@ -1,0 +1,10 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\NumberPyramid\bin\Debug\netcoreapp2.2\NumberPyramid.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\NumberPyramid\bin\Debug\netcoreapp2.2\NumberPyramid.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\NumberPyramid\bin\Debug\netcoreapp2.2\NumberPyramid.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\NumberPyramid\bin\Debug\netcoreapp2.2\NumberPyramid.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\NumberPyramid\bin\Debug\netcoreapp2.2\NumberPyramid.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\NumberPyramid\obj\Debug\netcoreapp2.2\NumberPyramid.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\NumberPyramid\obj\Debug\netcoreapp2.2\NumberPyramid.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\NumberPyramid\obj\Debug\netcoreapp2.2\NumberPyramid.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\NumberPyramid\obj\Debug\netcoreapp2.2\NumberPyramid.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\NumberPyramid\obj\Debug\netcoreapp2.2\NumberPyramid.pdb

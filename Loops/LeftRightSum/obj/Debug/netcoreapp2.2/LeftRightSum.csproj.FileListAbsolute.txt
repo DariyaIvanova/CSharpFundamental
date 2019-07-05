@@ -1,0 +1,10 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\LeftRightSum\bin\Debug\netcoreapp2.2\LeftRightSum.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\LeftRightSum\bin\Debug\netcoreapp2.2\LeftRightSum.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\LeftRightSum\bin\Debug\netcoreapp2.2\LeftRightSum.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\LeftRightSum\bin\Debug\netcoreapp2.2\LeftRightSum.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\LeftRightSum\bin\Debug\netcoreapp2.2\LeftRightSum.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\LeftRightSum\obj\Debug\netcoreapp2.2\LeftRightSum.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\LeftRightSum\obj\Debug\netcoreapp2.2\LeftRightSum.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\LeftRightSum\obj\Debug\netcoreapp2.2\LeftRightSum.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\LeftRightSum\obj\Debug\netcoreapp2.2\LeftRightSum.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\LeftRightSum\obj\Debug\netcoreapp2.2\LeftRightSum.pdb

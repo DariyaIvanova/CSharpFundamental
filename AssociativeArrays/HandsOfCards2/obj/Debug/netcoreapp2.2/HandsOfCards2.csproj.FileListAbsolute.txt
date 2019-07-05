@@ -1,0 +1,11 @@
+C:\Users\Asen\Documents\QA\CSharpFundamentals\Projects\AssociativeArrays\HandsOfCards2\bin\Debug\netcoreapp2.2\HandsOfCards2.deps.json
+C:\Users\Asen\Documents\QA\CSharpFundamentals\Projects\AssociativeArrays\HandsOfCards2\bin\Debug\netcoreapp2.2\HandsOfCards2.runtimeconfig.json
+C:\Users\Asen\Documents\QA\CSharpFundamentals\Projects\AssociativeArrays\HandsOfCards2\bin\Debug\netcoreapp2.2\HandsOfCards2.runtimeconfig.dev.json
+C:\Users\Asen\Documents\QA\CSharpFundamentals\Projects\AssociativeArrays\HandsOfCards2\bin\Debug\netcoreapp2.2\HandsOfCards2.dll
+C:\Users\Asen\Documents\QA\CSharpFundamentals\Projects\AssociativeArrays\HandsOfCards2\bin\Debug\netcoreapp2.2\HandsOfCards2.pdb
+C:\Users\Asen\Documents\QA\CSharpFundamentals\Projects\AssociativeArrays\HandsOfCards2\obj\Debug\netcoreapp2.2\HandsOfCards2.csprojAssemblyReference.cache
+C:\Users\Asen\Documents\QA\CSharpFundamentals\Projects\AssociativeArrays\HandsOfCards2\obj\Debug\netcoreapp2.2\HandsOfCards2.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\QA\CSharpFundamentals\Projects\AssociativeArrays\HandsOfCards2\obj\Debug\netcoreapp2.2\HandsOfCards2.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\QA\CSharpFundamentals\Projects\AssociativeArrays\HandsOfCards2\obj\Debug\netcoreapp2.2\HandsOfCards2.AssemblyInfo.cs
+C:\Users\Asen\Documents\QA\CSharpFundamentals\Projects\AssociativeArrays\HandsOfCards2\obj\Debug\netcoreapp2.2\HandsOfCards2.dll
+C:\Users\Asen\Documents\QA\CSharpFundamentals\Projects\AssociativeArrays\HandsOfCards2\obj\Debug\netcoreapp2.2\HandsOfCards2.pdb

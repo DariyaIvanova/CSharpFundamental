@@ -1,0 +1,11 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\UserLogs\bin\Debug\netcoreapp2.2\UserLogs.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\UserLogs\bin\Debug\netcoreapp2.2\UserLogs.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\UserLogs\bin\Debug\netcoreapp2.2\UserLogs.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\UserLogs\bin\Debug\netcoreapp2.2\UserLogs.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\UserLogs\bin\Debug\netcoreapp2.2\UserLogs.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\UserLogs\obj\Debug\netcoreapp2.2\UserLogs.csprojAssemblyReference.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\UserLogs\obj\Debug\netcoreapp2.2\UserLogs.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\UserLogs\obj\Debug\netcoreapp2.2\UserLogs.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\UserLogs\obj\Debug\netcoreapp2.2\UserLogs.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\UserLogs\obj\Debug\netcoreapp2.2\UserLogs.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\UserLogs\obj\Debug\netcoreapp2.2\UserLogs.pdb

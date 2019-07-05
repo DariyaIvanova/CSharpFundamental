@@ -1,0 +1,11 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\SumDigitsOfNumber\bin\Debug\netcoreapp2.2\SumDigitsOfNumber.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\SumDigitsOfNumber\bin\Debug\netcoreapp2.2\SumDigitsOfNumber.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\SumDigitsOfNumber\bin\Debug\netcoreapp2.2\SumDigitsOfNumber.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\SumDigitsOfNumber\bin\Debug\netcoreapp2.2\SumDigitsOfNumber.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\SumDigitsOfNumber\bin\Debug\netcoreapp2.2\SumDigitsOfNumber.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\SumDigitsOfNumber\obj\Debug\netcoreapp2.2\SumDigitsOfNumber.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\SumDigitsOfNumber\obj\Debug\netcoreapp2.2\SumDigitsOfNumber.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\SumDigitsOfNumber\obj\Debug\netcoreapp2.2\SumDigitsOfNumber.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\SumDigitsOfNumber\obj\Debug\netcoreapp2.2\SumDigitsOfNumber.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\SumDigitsOfNumber\obj\Debug\netcoreapp2.2\SumDigitsOfNumber.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\SumDigitsOfNumber\obj\Debug\netcoreapp2.2\SumDigitsOfNumber.csprojAssemblyReference.cache

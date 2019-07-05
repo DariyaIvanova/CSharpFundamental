@@ -1,0 +1,11 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\Numbers1000Ending7\bin\Debug\netcoreapp2.2\Numbers1000Ending7.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\Numbers1000Ending7\bin\Debug\netcoreapp2.2\Numbers1000Ending7.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\Numbers1000Ending7\bin\Debug\netcoreapp2.2\Numbers1000Ending7.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\Numbers1000Ending7\bin\Debug\netcoreapp2.2\Numbers1000Ending7.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\Numbers1000Ending7\bin\Debug\netcoreapp2.2\Numbers1000Ending7.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\Numbers1000Ending7\obj\Debug\netcoreapp2.2\Numbers1000Ending7.csprojAssemblyReference.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\Numbers1000Ending7\obj\Debug\netcoreapp2.2\Numbers1000Ending7.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\Numbers1000Ending7\obj\Debug\netcoreapp2.2\Numbers1000Ending7.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\Numbers1000Ending7\obj\Debug\netcoreapp2.2\Numbers1000Ending7.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\Numbers1000Ending7\obj\Debug\netcoreapp2.2\Numbers1000Ending7.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\Numbers1000Ending7\obj\Debug\netcoreapp2.2\Numbers1000Ending7.pdb

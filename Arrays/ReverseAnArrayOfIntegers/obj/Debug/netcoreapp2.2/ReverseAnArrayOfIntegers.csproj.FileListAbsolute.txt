@@ -1,0 +1,10 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\ReverseAnArrayOfIntegers\bin\Debug\netcoreapp2.2\ReverseAnArrayOfIntegers.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\ReverseAnArrayOfIntegers\bin\Debug\netcoreapp2.2\ReverseAnArrayOfIntegers.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\ReverseAnArrayOfIntegers\bin\Debug\netcoreapp2.2\ReverseAnArrayOfIntegers.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\ReverseAnArrayOfIntegers\bin\Debug\netcoreapp2.2\ReverseAnArrayOfIntegers.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\ReverseAnArrayOfIntegers\bin\Debug\netcoreapp2.2\ReverseAnArrayOfIntegers.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\ReverseAnArrayOfIntegers\obj\Debug\netcoreapp2.2\ReverseAnArrayOfIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\ReverseAnArrayOfIntegers\obj\Debug\netcoreapp2.2\ReverseAnArrayOfIntegers.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\ReverseAnArrayOfIntegers\obj\Debug\netcoreapp2.2\ReverseAnArrayOfIntegers.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\ReverseAnArrayOfIntegers\obj\Debug\netcoreapp2.2\ReverseAnArrayOfIntegers.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\ReverseAnArrayOfIntegers\obj\Debug\netcoreapp2.2\ReverseAnArrayOfIntegers.pdb

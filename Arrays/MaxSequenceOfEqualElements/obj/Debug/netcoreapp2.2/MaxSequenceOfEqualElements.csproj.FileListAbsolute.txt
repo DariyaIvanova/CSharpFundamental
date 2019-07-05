@@ -1,0 +1,11 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.2\MaxSequenceOfEqualElements.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.2\MaxSequenceOfEqualElements.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.2\MaxSequenceOfEqualElements.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.2\MaxSequenceOfEqualElements.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.2\MaxSequenceOfEqualElements.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.2\MaxSequenceOfEqualElements.csprojAssemblyReference.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.2\MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.2\MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.2\MaxSequenceOfEqualElements.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.2\MaxSequenceOfEqualElements.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.2\MaxSequenceOfEqualElements.pdb

@@ -1,0 +1,10 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\Number0-9ToText\bin\Debug\netcoreapp2.2\Number0-9ToText.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\Number0-9ToText\bin\Debug\netcoreapp2.2\Number0-9ToText.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\Number0-9ToText\bin\Debug\netcoreapp2.2\Number0-9ToText.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\Number0-9ToText\bin\Debug\netcoreapp2.2\Number0-9ToText.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\Number0-9ToText\bin\Debug\netcoreapp2.2\Number0-9ToText.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\Number0-9ToText\obj\Debug\netcoreapp2.2\Number0-9ToText.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\Number0-9ToText\obj\Debug\netcoreapp2.2\Number0-9ToText.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\Number0-9ToText\obj\Debug\netcoreapp2.2\Number0-9ToText.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\Number0-9ToText\obj\Debug\netcoreapp2.2\Number0-9ToText.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\Number0-9ToText\obj\Debug\netcoreapp2.2\Number0-9ToText.pdb

@@ -1,0 +1,10 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\PointOnRectangleBorder\bin\Debug\netcoreapp2.2\PointOnRectangleBorder.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\PointOnRectangleBorder\bin\Debug\netcoreapp2.2\PointOnRectangleBorder.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\PointOnRectangleBorder\bin\Debug\netcoreapp2.2\PointOnRectangleBorder.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\PointOnRectangleBorder\bin\Debug\netcoreapp2.2\PointOnRectangleBorder.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\PointOnRectangleBorder\bin\Debug\netcoreapp2.2\PointOnRectangleBorder.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\PointOnRectangleBorder\obj\Debug\netcoreapp2.2\PointOnRectangleBorder.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\PointOnRectangleBorder\obj\Debug\netcoreapp2.2\PointOnRectangleBorder.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\PointOnRectangleBorder\obj\Debug\netcoreapp2.2\PointOnRectangleBorder.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\PointOnRectangleBorder\obj\Debug\netcoreapp2.2\PointOnRectangleBorder.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\PointOnRectangleBorder\obj\Debug\netcoreapp2.2\PointOnRectangleBorder.pdb

@@ -1,0 +1,10 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\Cinema\bin\Debug\netcoreapp2.2\Cinema.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\Cinema\bin\Debug\netcoreapp2.2\Cinema.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\Cinema\bin\Debug\netcoreapp2.2\Cinema.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\Cinema\bin\Debug\netcoreapp2.2\Cinema.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\Cinema\bin\Debug\netcoreapp2.2\Cinema.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\Cinema\obj\Debug\netcoreapp2.2\Cinema.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\Cinema\obj\Debug\netcoreapp2.2\Cinema.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\Cinema\obj\Debug\netcoreapp2.2\Cinema.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\Cinema\obj\Debug\netcoreapp2.2\Cinema.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\Cinema\obj\Debug\netcoreapp2.2\Cinema.pdb

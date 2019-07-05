@@ -1,0 +1,10 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\Factorial\bin\Debug\netcoreapp2.2\Factorial.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\Factorial\bin\Debug\netcoreapp2.2\Factorial.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\Factorial\bin\Debug\netcoreapp2.2\Factorial.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\Factorial\bin\Debug\netcoreapp2.2\Factorial.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\Factorial\bin\Debug\netcoreapp2.2\Factorial.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\Factorial\obj\Debug\netcoreapp2.2\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\Factorial\obj\Debug\netcoreapp2.2\Factorial.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\Factorial\obj\Debug\netcoreapp2.2\Factorial.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\Factorial\obj\Debug\netcoreapp2.2\Factorial.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\Factorial\obj\Debug\netcoreapp2.2\Factorial.pdb

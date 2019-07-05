@@ -1,0 +1,11 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\FixEmails\bin\Debug\netcoreapp2.2\FixEmails.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\FixEmails\bin\Debug\netcoreapp2.2\FixEmails.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\FixEmails\bin\Debug\netcoreapp2.2\FixEmails.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\FixEmails\bin\Debug\netcoreapp2.2\FixEmails.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\FixEmails\bin\Debug\netcoreapp2.2\FixEmails.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\FixEmails\obj\Debug\netcoreapp2.2\FixEmails.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\FixEmails\obj\Debug\netcoreapp2.2\FixEmails.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\FixEmails\obj\Debug\netcoreapp2.2\FixEmails.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\FixEmails\obj\Debug\netcoreapp2.2\FixEmails.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\FixEmails\obj\Debug\netcoreapp2.2\FixEmails.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\FixEmails\obj\Debug\netcoreapp2.2\FixEmails.csprojAssemblyReference.cache

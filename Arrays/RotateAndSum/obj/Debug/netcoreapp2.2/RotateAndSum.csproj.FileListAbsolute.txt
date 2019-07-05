@@ -1,0 +1,11 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\RotateAndSum\bin\Debug\netcoreapp2.2\RotateAndSum.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\RotateAndSum\bin\Debug\netcoreapp2.2\RotateAndSum.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\RotateAndSum\bin\Debug\netcoreapp2.2\RotateAndSum.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\RotateAndSum\bin\Debug\netcoreapp2.2\RotateAndSum.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\RotateAndSum\bin\Debug\netcoreapp2.2\RotateAndSum.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\RotateAndSum\obj\Debug\netcoreapp2.2\RotateAndSum.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\RotateAndSum\obj\Debug\netcoreapp2.2\RotateAndSum.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\RotateAndSum\obj\Debug\netcoreapp2.2\RotateAndSum.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\RotateAndSum\obj\Debug\netcoreapp2.2\RotateAndSum.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\RotateAndSum\obj\Debug\netcoreapp2.2\RotateAndSum.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\RotateAndSum\obj\Debug\netcoreapp2.2\RotateAndSum.csprojAssemblyReference.cache

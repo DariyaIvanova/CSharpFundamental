@@ -1,0 +1,11 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\EqualSums\bin\Debug\netcoreapp2.2\EqualSums.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\EqualSums\bin\Debug\netcoreapp2.2\EqualSums.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\EqualSums\bin\Debug\netcoreapp2.2\EqualSums.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\EqualSums\bin\Debug\netcoreapp2.2\EqualSums.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\EqualSums\bin\Debug\netcoreapp2.2\EqualSums.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\EqualSums\obj\Debug\netcoreapp2.2\EqualSums.csprojAssemblyReference.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\EqualSums\obj\Debug\netcoreapp2.2\EqualSums.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\EqualSums\obj\Debug\netcoreapp2.2\EqualSums.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\EqualSums\obj\Debug\netcoreapp2.2\EqualSums.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\EqualSums\obj\Debug\netcoreapp2.2\EqualSums.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\EqualSums\obj\Debug\netcoreapp2.2\EqualSums.pdb

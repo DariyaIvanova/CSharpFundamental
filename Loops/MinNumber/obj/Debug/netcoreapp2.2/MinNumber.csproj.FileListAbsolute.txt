@@ -1,0 +1,10 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\MinNumber\bin\Debug\netcoreapp2.2\MinNumber.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\MinNumber\bin\Debug\netcoreapp2.2\MinNumber.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\MinNumber\bin\Debug\netcoreapp2.2\MinNumber.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\MinNumber\bin\Debug\netcoreapp2.2\MinNumber.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\MinNumber\bin\Debug\netcoreapp2.2\MinNumber.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\MinNumber\obj\Debug\netcoreapp2.2\MinNumber.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\MinNumber\obj\Debug\netcoreapp2.2\MinNumber.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\MinNumber\obj\Debug\netcoreapp2.2\MinNumber.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\MinNumber\obj\Debug\netcoreapp2.2\MinNumber.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\MinNumber\obj\Debug\netcoreapp2.2\MinNumber.pdb

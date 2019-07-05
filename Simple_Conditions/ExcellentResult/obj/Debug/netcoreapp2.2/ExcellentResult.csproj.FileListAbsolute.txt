@@ -1,0 +1,11 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\ExcellentResult\bin\Debug\netcoreapp2.2\ExcellentResult.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\ExcellentResult\bin\Debug\netcoreapp2.2\ExcellentResult.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\ExcellentResult\bin\Debug\netcoreapp2.2\ExcellentResult.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\ExcellentResult\bin\Debug\netcoreapp2.2\ExcellentResult.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\ExcellentResult\bin\Debug\netcoreapp2.2\ExcellentResult.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\ExcellentResult\obj\Debug\netcoreapp2.2\ExcellentResult.csprojAssemblyReference.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\ExcellentResult\obj\Debug\netcoreapp2.2\ExcellentResult.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\ExcellentResult\obj\Debug\netcoreapp2.2\ExcellentResult.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\ExcellentResult\obj\Debug\netcoreapp2.2\ExcellentResult.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\ExcellentResult\obj\Debug\netcoreapp2.2\ExcellentResult.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\ExcellentResult\obj\Debug\netcoreapp2.2\ExcellentResult.pdb

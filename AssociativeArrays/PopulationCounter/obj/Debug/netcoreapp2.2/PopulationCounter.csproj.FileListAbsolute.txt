@@ -1,0 +1,11 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\PopulationCounter\bin\Debug\netcoreapp2.2\PopulationCounter.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\PopulationCounter\bin\Debug\netcoreapp2.2\PopulationCounter.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\PopulationCounter\bin\Debug\netcoreapp2.2\PopulationCounter.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\PopulationCounter\bin\Debug\netcoreapp2.2\PopulationCounter.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\PopulationCounter\bin\Debug\netcoreapp2.2\PopulationCounter.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\PopulationCounter\obj\Debug\netcoreapp2.2\PopulationCounter.csprojAssemblyReference.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\PopulationCounter\obj\Debug\netcoreapp2.2\PopulationCounter.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\PopulationCounter\obj\Debug\netcoreapp2.2\PopulationCounter.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\PopulationCounter\obj\Debug\netcoreapp2.2\PopulationCounter.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\PopulationCounter\obj\Debug\netcoreapp2.2\PopulationCounter.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\PopulationCounter\obj\Debug\netcoreapp2.2\PopulationCounter.pdb

@@ -1,0 +1,11 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\CountRealNumbers\bin\Debug\netcoreapp2.2\CountRealNumbers.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\CountRealNumbers\bin\Debug\netcoreapp2.2\CountRealNumbers.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\CountRealNumbers\bin\Debug\netcoreapp2.2\CountRealNumbers.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\CountRealNumbers\bin\Debug\netcoreapp2.2\CountRealNumbers.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\CountRealNumbers\bin\Debug\netcoreapp2.2\CountRealNumbers.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\CountRealNumbers\obj\Debug\netcoreapp2.2\CountRealNumbers.csprojAssemblyReference.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\CountRealNumbers\obj\Debug\netcoreapp2.2\CountRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\CountRealNumbers\obj\Debug\netcoreapp2.2\CountRealNumbers.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\CountRealNumbers\obj\Debug\netcoreapp2.2\CountRealNumbers.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\CountRealNumbers\obj\Debug\netcoreapp2.2\CountRealNumbers.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\CountRealNumbers\obj\Debug\netcoreapp2.2\CountRealNumbers.pdb

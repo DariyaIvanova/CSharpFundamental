@@ -1,0 +1,11 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\EqualPairs\bin\Debug\netcoreapp2.2\EqualPairs.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\EqualPairs\bin\Debug\netcoreapp2.2\EqualPairs.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\EqualPairs\bin\Debug\netcoreapp2.2\EqualPairs.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\EqualPairs\bin\Debug\netcoreapp2.2\EqualPairs.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\EqualPairs\bin\Debug\netcoreapp2.2\EqualPairs.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\EqualPairs\obj\Debug\netcoreapp2.2\EqualPairs.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\EqualPairs\obj\Debug\netcoreapp2.2\EqualPairs.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\EqualPairs\obj\Debug\netcoreapp2.2\EqualPairs.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\EqualPairs\obj\Debug\netcoreapp2.2\EqualPairs.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\EqualPairs\obj\Debug\netcoreapp2.2\EqualPairs.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\EqualPairs\obj\Debug\netcoreapp2.2\EqualPairs.csprojAssemblyReference.cache

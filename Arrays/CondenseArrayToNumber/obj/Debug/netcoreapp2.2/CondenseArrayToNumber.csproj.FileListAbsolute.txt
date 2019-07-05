@@ -1,0 +1,10 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\CondenseArrayToNumber\bin\Debug\netcoreapp2.2\CondenseArrayToNumber.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\CondenseArrayToNumber\bin\Debug\netcoreapp2.2\CondenseArrayToNumber.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\CondenseArrayToNumber\bin\Debug\netcoreapp2.2\CondenseArrayToNumber.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\CondenseArrayToNumber\bin\Debug\netcoreapp2.2\CondenseArrayToNumber.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\CondenseArrayToNumber\bin\Debug\netcoreapp2.2\CondenseArrayToNumber.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\CondenseArrayToNumber\obj\Debug\netcoreapp2.2\CondenseArrayToNumber.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\CondenseArrayToNumber\obj\Debug\netcoreapp2.2\CondenseArrayToNumber.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\CondenseArrayToNumber\obj\Debug\netcoreapp2.2\CondenseArrayToNumber.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\CondenseArrayToNumber\obj\Debug\netcoreapp2.2\CondenseArrayToNumber.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\CondenseArrayToNumber\obj\Debug\netcoreapp2.2\CondenseArrayToNumber.pdb

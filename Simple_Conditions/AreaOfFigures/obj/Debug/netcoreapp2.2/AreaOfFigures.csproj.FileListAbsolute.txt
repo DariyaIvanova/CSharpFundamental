@@ -1,0 +1,10 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\AreaOfFigures\bin\Debug\netcoreapp2.2\AreaOfFigures.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\AreaOfFigures\bin\Debug\netcoreapp2.2\AreaOfFigures.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\AreaOfFigures\bin\Debug\netcoreapp2.2\AreaOfFigures.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\AreaOfFigures\bin\Debug\netcoreapp2.2\AreaOfFigures.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\AreaOfFigures\bin\Debug\netcoreapp2.2\AreaOfFigures.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\AreaOfFigures\obj\Debug\netcoreapp2.2\AreaOfFigures.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\AreaOfFigures\obj\Debug\netcoreapp2.2\AreaOfFigures.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\AreaOfFigures\obj\Debug\netcoreapp2.2\AreaOfFigures.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\AreaOfFigures\obj\Debug\netcoreapp2.2\AreaOfFigures.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\AreaOfFigures\obj\Debug\netcoreapp2.2\AreaOfFigures.pdb

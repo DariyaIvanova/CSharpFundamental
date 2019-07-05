@@ -1,0 +1,11 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\DragonArmy\bin\Debug\netcoreapp2.2\DragonArmy.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\DragonArmy\bin\Debug\netcoreapp2.2\DragonArmy.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\DragonArmy\bin\Debug\netcoreapp2.2\DragonArmy.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\DragonArmy\bin\Debug\netcoreapp2.2\DragonArmy.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\DragonArmy\bin\Debug\netcoreapp2.2\DragonArmy.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\DragonArmy\obj\Debug\netcoreapp2.2\DragonArmy.csprojAssemblyReference.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\DragonArmy\obj\Debug\netcoreapp2.2\DragonArmy.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\DragonArmy\obj\Debug\netcoreapp2.2\DragonArmy.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\DragonArmy\obj\Debug\netcoreapp2.2\DragonArmy.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\DragonArmy\obj\Debug\netcoreapp2.2\DragonArmy.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\DragonArmy\obj\Debug\netcoreapp2.2\DragonArmy.pdb

@@ -1,0 +1,10 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\Numbers from 2^0 to 2^N\bin\Debug\netcoreapp2.2\Numbers from 2^0 to 2^N.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\Numbers from 2^0 to 2^N\bin\Debug\netcoreapp2.2\Numbers from 2^0 to 2^N.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\Numbers from 2^0 to 2^N\bin\Debug\netcoreapp2.2\Numbers from 2^0 to 2^N.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\Numbers from 2^0 to 2^N\bin\Debug\netcoreapp2.2\Numbers from 2^0 to 2^N.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\Numbers from 2^0 to 2^N\bin\Debug\netcoreapp2.2\Numbers from 2^0 to 2^N.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\Numbers from 2^0 to 2^N\obj\Debug\netcoreapp2.2\Numbers from 2^0 to 2^N.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\Numbers from 2^0 to 2^N\obj\Debug\netcoreapp2.2\Numbers from 2^0 to 2^N.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\Numbers from 2^0 to 2^N\obj\Debug\netcoreapp2.2\Numbers from 2^0 to 2^N.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\Numbers from 2^0 to 2^N\obj\Debug\netcoreapp2.2\Numbers from 2^0 to 2^N.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\Numbers from 2^0 to 2^N\obj\Debug\netcoreapp2.2\Numbers from 2^0 to 2^N.pdb

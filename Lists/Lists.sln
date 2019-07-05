@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveNegativesReverse", "RemoveNegativesReverse\RemoveNegativesReverse.csproj", "{81CFB324-6459-4AB9-829A-C3F4AE6DC6A4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquareNumbers", "SquareNumbers\SquareNumbers.csproj", "{40123254-4A1B-42E4-A768-FC1CAA548768}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchForANumber", "SearchForANumber\SearchForANumber.csproj", "{A8991C24-FDA3-4988-9EC4-0F40CDFD790C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortNumbers", "SortNumbers\SortNumbers.csproj", "{51794617-49C1-4BBA-B88B-64B37ACCD949}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumReversedNumbers", "SumReversedNumbers\SumReversedNumbers.csproj", "{629A22C1-2D23-44DA-93A3-639C2ED4E9D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayManipulator", "ArrayManipulator\ArrayManipulator.csproj", "{094B3D77-B6AB-4931-9F58-5AEA78D58747}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BombNumbers", "BombNumbers\BombNumbers.csproj", "{95048563-2646-44FC-ACFC-B7F7A211333A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81CFB324-6459-4AB9-829A-C3F4AE6DC6A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81CFB324-6459-4AB9-829A-C3F4AE6DC6A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81CFB324-6459-4AB9-829A-C3F4AE6DC6A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81CFB324-6459-4AB9-829A-C3F4AE6DC6A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40123254-4A1B-42E4-A768-FC1CAA548768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40123254-4A1B-42E4-A768-FC1CAA548768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40123254-4A1B-42E4-A768-FC1CAA548768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40123254-4A1B-42E4-A768-FC1CAA548768}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8991C24-FDA3-4988-9EC4-0F40CDFD790C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8991C24-FDA3-4988-9EC4-0F40CDFD790C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8991C24-FDA3-4988-9EC4-0F40CDFD790C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8991C24-FDA3-4988-9EC4-0F40CDFD790C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51794617-49C1-4BBA-B88B-64B37ACCD949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51794617-49C1-4BBA-B88B-64B37ACCD949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51794617-49C1-4BBA-B88B-64B37ACCD949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51794617-49C1-4BBA-B88B-64B37ACCD949}.Release|Any CPU.Build.0 = Release|Any CPU
+		{629A22C1-2D23-44DA-93A3-639C2ED4E9D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{629A22C1-2D23-44DA-93A3-639C2ED4E9D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{629A22C1-2D23-44DA-93A3-639C2ED4E9D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{629A22C1-2D23-44DA-93A3-639C2ED4E9D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{094B3D77-B6AB-4931-9F58-5AEA78D58747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{094B3D77-B6AB-4931-9F58-5AEA78D58747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{094B3D77-B6AB-4931-9F58-5AEA78D58747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{094B3D77-B6AB-4931-9F58-5AEA78D58747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95048563-2646-44FC-ACFC-B7F7A211333A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95048563-2646-44FC-ACFC-B7F7A211333A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95048563-2646-44FC-ACFC-B7F7A211333A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95048563-2646-44FC-ACFC-B7F7A211333A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B69CD3A4-EFB4-4914-A091-566E3E1240EA}
+	EndGlobalSection
+EndGlobal

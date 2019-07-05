@@ -1,0 +1,11 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\ExtractMiddleElementsOfArary\bin\Debug\netcoreapp2.2\ExtractMiddleElementsOfArary.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\ExtractMiddleElementsOfArary\bin\Debug\netcoreapp2.2\ExtractMiddleElementsOfArary.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\ExtractMiddleElementsOfArary\bin\Debug\netcoreapp2.2\ExtractMiddleElementsOfArary.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\ExtractMiddleElementsOfArary\bin\Debug\netcoreapp2.2\ExtractMiddleElementsOfArary.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\ExtractMiddleElementsOfArary\bin\Debug\netcoreapp2.2\ExtractMiddleElementsOfArary.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\ExtractMiddleElementsOfArary\obj\Debug\netcoreapp2.2\ExtractMiddleElementsOfArary.csprojAssemblyReference.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\ExtractMiddleElementsOfArary\obj\Debug\netcoreapp2.2\ExtractMiddleElementsOfArary.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\ExtractMiddleElementsOfArary\obj\Debug\netcoreapp2.2\ExtractMiddleElementsOfArary.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\ExtractMiddleElementsOfArary\obj\Debug\netcoreapp2.2\ExtractMiddleElementsOfArary.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\ExtractMiddleElementsOfArary\obj\Debug\netcoreapp2.2\ExtractMiddleElementsOfArary.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\ExtractMiddleElementsOfArary\obj\Debug\netcoreapp2.2\ExtractMiddleElementsOfArary.pdb

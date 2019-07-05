@@ -1,0 +1,11 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\CheckPrimeNumber\bin\Debug\netcoreapp2.2\CheckPrimeNumber.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\CheckPrimeNumber\bin\Debug\netcoreapp2.2\CheckPrimeNumber.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\CheckPrimeNumber\bin\Debug\netcoreapp2.2\CheckPrimeNumber.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\CheckPrimeNumber\bin\Debug\netcoreapp2.2\CheckPrimeNumber.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\CheckPrimeNumber\bin\Debug\netcoreapp2.2\CheckPrimeNumber.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\CheckPrimeNumber\obj\Debug\netcoreapp2.2\CheckPrimeNumber.csprojAssemblyReference.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\CheckPrimeNumber\obj\Debug\netcoreapp2.2\CheckPrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\CheckPrimeNumber\obj\Debug\netcoreapp2.2\CheckPrimeNumber.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\CheckPrimeNumber\obj\Debug\netcoreapp2.2\CheckPrimeNumber.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\CheckPrimeNumber\obj\Debug\netcoreapp2.2\CheckPrimeNumber.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\CheckPrimeNumber\obj\Debug\netcoreapp2.2\CheckPrimeNumber.pdb

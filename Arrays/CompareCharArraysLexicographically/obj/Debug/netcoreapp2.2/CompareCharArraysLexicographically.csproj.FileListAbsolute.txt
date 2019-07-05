@@ -1,0 +1,11 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\CompareCharArraysLexicographically\bin\Debug\netcoreapp2.2\CompareCharArraysLexicographically.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\CompareCharArraysLexicographically\bin\Debug\netcoreapp2.2\CompareCharArraysLexicographically.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\CompareCharArraysLexicographically\bin\Debug\netcoreapp2.2\CompareCharArraysLexicographically.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\CompareCharArraysLexicographically\bin\Debug\netcoreapp2.2\CompareCharArraysLexicographically.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\CompareCharArraysLexicographically\bin\Debug\netcoreapp2.2\CompareCharArraysLexicographically.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\CompareCharArraysLexicographically\obj\Debug\netcoreapp2.2\CompareCharArraysLexicographically.csprojAssemblyReference.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\CompareCharArraysLexicographically\obj\Debug\netcoreapp2.2\CompareCharArraysLexicographically.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\CompareCharArraysLexicographically\obj\Debug\netcoreapp2.2\CompareCharArraysLexicographically.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\CompareCharArraysLexicographically\obj\Debug\netcoreapp2.2\CompareCharArraysLexicographically.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\CompareCharArraysLexicographically\obj\Debug\netcoreapp2.2\CompareCharArraysLexicographically.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\CompareCharArraysLexicographically\obj\Debug\netcoreapp2.2\CompareCharArraysLexicographically.pdb

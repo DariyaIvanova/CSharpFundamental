@@ -1,0 +1,11 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\LegendaryFarming\bin\Debug\netcoreapp2.2\LegendaryFarming.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\LegendaryFarming\bin\Debug\netcoreapp2.2\LegendaryFarming.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\LegendaryFarming\bin\Debug\netcoreapp2.2\LegendaryFarming.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\LegendaryFarming\bin\Debug\netcoreapp2.2\LegendaryFarming.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\LegendaryFarming\bin\Debug\netcoreapp2.2\LegendaryFarming.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\LegendaryFarming\obj\Debug\netcoreapp2.2\LegendaryFarming.csprojAssemblyReference.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\LegendaryFarming\obj\Debug\netcoreapp2.2\LegendaryFarming.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\LegendaryFarming\obj\Debug\netcoreapp2.2\LegendaryFarming.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\LegendaryFarming\obj\Debug\netcoreapp2.2\LegendaryFarming.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\LegendaryFarming\obj\Debug\netcoreapp2.2\LegendaryFarming.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\LegendaryFarming\obj\Debug\netcoreapp2.2\LegendaryFarming.pdb

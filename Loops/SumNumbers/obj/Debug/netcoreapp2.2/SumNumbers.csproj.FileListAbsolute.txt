@@ -1,0 +1,11 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\SumNumbers\bin\Debug\netcoreapp2.2\SumNumbers.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\SumNumbers\bin\Debug\netcoreapp2.2\SumNumbers.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\SumNumbers\bin\Debug\netcoreapp2.2\SumNumbers.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\SumNumbers\bin\Debug\netcoreapp2.2\SumNumbers.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\SumNumbers\bin\Debug\netcoreapp2.2\SumNumbers.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\SumNumbers\obj\Debug\netcoreapp2.2\SumNumbers.csprojAssemblyReference.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\SumNumbers\obj\Debug\netcoreapp2.2\SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\SumNumbers\obj\Debug\netcoreapp2.2\SumNumbers.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\SumNumbers\obj\Debug\netcoreapp2.2\SumNumbers.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\SumNumbers\obj\Debug\netcoreapp2.2\SumNumbers.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\SumNumbers\obj\Debug\netcoreapp2.2\SumNumbers.pdb

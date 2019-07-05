@@ -1,0 +1,11 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\ExcellentOrNot\bin\Debug\netcoreapp2.2\ExcellentOrNot.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\ExcellentOrNot\bin\Debug\netcoreapp2.2\ExcellentOrNot.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\ExcellentOrNot\bin\Debug\netcoreapp2.2\ExcellentOrNot.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\ExcellentOrNot\bin\Debug\netcoreapp2.2\ExcellentOrNot.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\ExcellentOrNot\bin\Debug\netcoreapp2.2\ExcellentOrNot.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\ExcellentOrNot\obj\Debug\netcoreapp2.2\ExcellentOrNot.csprojAssemblyReference.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\ExcellentOrNot\obj\Debug\netcoreapp2.2\ExcellentOrNot.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\ExcellentOrNot\obj\Debug\netcoreapp2.2\ExcellentOrNot.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\ExcellentOrNot\obj\Debug\netcoreapp2.2\ExcellentOrNot.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\ExcellentOrNot\obj\Debug\netcoreapp2.2\ExcellentOrNot.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\ExcellentOrNot\obj\Debug\netcoreapp2.2\ExcellentOrNot.pdb

@@ -1,0 +1,10 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\LatinLetters\bin\Debug\netcoreapp2.2\LatinLetters.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\LatinLetters\bin\Debug\netcoreapp2.2\LatinLetters.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\LatinLetters\bin\Debug\netcoreapp2.2\LatinLetters.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\LatinLetters\bin\Debug\netcoreapp2.2\LatinLetters.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\LatinLetters\bin\Debug\netcoreapp2.2\LatinLetters.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\LatinLetters\obj\Debug\netcoreapp2.2\LatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\LatinLetters\obj\Debug\netcoreapp2.2\LatinLetters.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\LatinLetters\obj\Debug\netcoreapp2.2\LatinLetters.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\LatinLetters\obj\Debug\netcoreapp2.2\LatinLetters.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\LatinLetters\obj\Debug\netcoreapp2.2\LatinLetters.pdb

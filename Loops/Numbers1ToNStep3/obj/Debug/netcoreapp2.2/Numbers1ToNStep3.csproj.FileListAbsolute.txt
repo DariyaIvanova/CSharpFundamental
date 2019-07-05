@@ -1,0 +1,10 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\Numbers1ToNStep3\bin\Debug\netcoreapp2.2\Numbers1ToNStep3.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\Numbers1ToNStep3\bin\Debug\netcoreapp2.2\Numbers1ToNStep3.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\Numbers1ToNStep3\bin\Debug\netcoreapp2.2\Numbers1ToNStep3.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\Numbers1ToNStep3\bin\Debug\netcoreapp2.2\Numbers1ToNStep3.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\Numbers1ToNStep3\bin\Debug\netcoreapp2.2\Numbers1ToNStep3.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\Numbers1ToNStep3\obj\Debug\netcoreapp2.2\Numbers1ToNStep3.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\Numbers1ToNStep3\obj\Debug\netcoreapp2.2\Numbers1ToNStep3.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\Numbers1ToNStep3\obj\Debug\netcoreapp2.2\Numbers1ToNStep3.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\Numbers1ToNStep3\obj\Debug\netcoreapp2.2\Numbers1ToNStep3.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\Numbers1ToNStep3\obj\Debug\netcoreapp2.2\Numbers1ToNStep3.pdb

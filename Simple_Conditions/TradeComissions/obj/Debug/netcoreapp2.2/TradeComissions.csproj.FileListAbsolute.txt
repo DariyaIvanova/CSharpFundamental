@@ -1,0 +1,10 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\TradeComissions\bin\Debug\netcoreapp2.2\TradeComissions.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\TradeComissions\bin\Debug\netcoreapp2.2\TradeComissions.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\TradeComissions\bin\Debug\netcoreapp2.2\TradeComissions.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\TradeComissions\bin\Debug\netcoreapp2.2\TradeComissions.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\TradeComissions\bin\Debug\netcoreapp2.2\TradeComissions.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\TradeComissions\obj\Debug\netcoreapp2.2\TradeComissions.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\TradeComissions\obj\Debug\netcoreapp2.2\TradeComissions.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\TradeComissions\obj\Debug\netcoreapp2.2\TradeComissions.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\TradeComissions\obj\Debug\netcoreapp2.2\TradeComissions.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\TradeComissions\obj\Debug\netcoreapp2.2\TradeComissions.pdb

@@ -1,0 +1,11 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\MetricConverter\bin\Debug\netcoreapp2.2\MetricConverter.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\MetricConverter\bin\Debug\netcoreapp2.2\MetricConverter.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\MetricConverter\bin\Debug\netcoreapp2.2\MetricConverter.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\MetricConverter\bin\Debug\netcoreapp2.2\MetricConverter.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\MetricConverter\bin\Debug\netcoreapp2.2\MetricConverter.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\MetricConverter\obj\Debug\netcoreapp2.2\MetricConverter.csprojAssemblyReference.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\MetricConverter\obj\Debug\netcoreapp2.2\MetricConverter.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\MetricConverter\obj\Debug\netcoreapp2.2\MetricConverter.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\MetricConverter\obj\Debug\netcoreapp2.2\MetricConverter.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\MetricConverter\obj\Debug\netcoreapp2.2\MetricConverter.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\MetricConverter\obj\Debug\netcoreapp2.2\MetricConverter.pdb

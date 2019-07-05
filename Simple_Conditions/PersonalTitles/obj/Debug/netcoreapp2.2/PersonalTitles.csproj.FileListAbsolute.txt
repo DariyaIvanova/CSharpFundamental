@@ -1,0 +1,10 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\PersonalTitles\bin\Debug\netcoreapp2.2\PersonalTitles.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\PersonalTitles\bin\Debug\netcoreapp2.2\PersonalTitles.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\PersonalTitles\bin\Debug\netcoreapp2.2\PersonalTitles.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\PersonalTitles\bin\Debug\netcoreapp2.2\PersonalTitles.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\PersonalTitles\bin\Debug\netcoreapp2.2\PersonalTitles.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\PersonalTitles\obj\Debug\netcoreapp2.2\PersonalTitles.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\PersonalTitles\obj\Debug\netcoreapp2.2\PersonalTitles.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\PersonalTitles\obj\Debug\netcoreapp2.2\PersonalTitles.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\PersonalTitles\obj\Debug\netcoreapp2.2\PersonalTitles.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\PersonalTitles\obj\Debug\netcoreapp2.2\PersonalTitles.pdb

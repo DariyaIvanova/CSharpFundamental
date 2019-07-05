@@ -1,0 +1,10 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\EqualWords\bin\Debug\netcoreapp2.2\EqualWords.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\EqualWords\bin\Debug\netcoreapp2.2\EqualWords.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\EqualWords\bin\Debug\netcoreapp2.2\EqualWords.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\EqualWords\bin\Debug\netcoreapp2.2\EqualWords.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\EqualWords\bin\Debug\netcoreapp2.2\EqualWords.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\EqualWords\obj\Debug\netcoreapp2.2\EqualWords.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\EqualWords\obj\Debug\netcoreapp2.2\EqualWords.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\EqualWords\obj\Debug\netcoreapp2.2\EqualWords.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\EqualWords\obj\Debug\netcoreapp2.2\EqualWords.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\EqualWords\obj\Debug\netcoreapp2.2\EqualWords.pdb

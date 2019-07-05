@@ -1,0 +1,10 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\TrippleSum\bin\Debug\netcoreapp2.2\TrippleSum.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\TrippleSum\bin\Debug\netcoreapp2.2\TrippleSum.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\TrippleSum\bin\Debug\netcoreapp2.2\TrippleSum.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\TrippleSum\bin\Debug\netcoreapp2.2\TrippleSum.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\TrippleSum\bin\Debug\netcoreapp2.2\TrippleSum.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\TrippleSum\obj\Debug\netcoreapp2.2\TrippleSum.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\TrippleSum\obj\Debug\netcoreapp2.2\TrippleSum.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\TrippleSum\obj\Debug\netcoreapp2.2\TrippleSum.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\TrippleSum\obj\Debug\netcoreapp2.2\TrippleSum.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\TrippleSum\obj\Debug\netcoreapp2.2\TrippleSum.pdb

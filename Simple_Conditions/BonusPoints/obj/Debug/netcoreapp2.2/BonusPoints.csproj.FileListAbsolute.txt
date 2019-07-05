@@ -1,0 +1,10 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\BonusPoints\bin\Debug\netcoreapp2.2\BonusPoints.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\BonusPoints\bin\Debug\netcoreapp2.2\BonusPoints.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\BonusPoints\bin\Debug\netcoreapp2.2\BonusPoints.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\BonusPoints\bin\Debug\netcoreapp2.2\BonusPoints.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\BonusPoints\bin\Debug\netcoreapp2.2\BonusPoints.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\BonusPoints\obj\Debug\netcoreapp2.2\BonusPoints.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\BonusPoints\obj\Debug\netcoreapp2.2\BonusPoints.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\BonusPoints\obj\Debug\netcoreapp2.2\BonusPoints.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\BonusPoints\obj\Debug\netcoreapp2.2\BonusPoints.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\BonusPoints\obj\Debug\netcoreapp2.2\BonusPoints.pdb

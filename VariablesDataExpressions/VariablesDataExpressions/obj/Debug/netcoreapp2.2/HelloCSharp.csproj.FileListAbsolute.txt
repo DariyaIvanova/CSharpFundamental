@@ -1,0 +1,11 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\VariablesDataExpressions\VariablesDataExpressions\bin\Debug\netcoreapp2.2\HelloCSharp.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\VariablesDataExpressions\VariablesDataExpressions\bin\Debug\netcoreapp2.2\HelloCSharp.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\VariablesDataExpressions\VariablesDataExpressions\bin\Debug\netcoreapp2.2\HelloCSharp.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\VariablesDataExpressions\VariablesDataExpressions\bin\Debug\netcoreapp2.2\HelloCSharp.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\VariablesDataExpressions\VariablesDataExpressions\bin\Debug\netcoreapp2.2\HelloCSharp.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\VariablesDataExpressions\VariablesDataExpressions\obj\Debug\netcoreapp2.2\HelloCSharp.csprojAssemblyReference.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\VariablesDataExpressions\VariablesDataExpressions\obj\Debug\netcoreapp2.2\HelloCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\VariablesDataExpressions\VariablesDataExpressions\obj\Debug\netcoreapp2.2\HelloCSharp.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\VariablesDataExpressions\VariablesDataExpressions\obj\Debug\netcoreapp2.2\HelloCSharp.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\VariablesDataExpressions\VariablesDataExpressions\obj\Debug\netcoreapp2.2\HelloCSharp.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\VariablesDataExpressions\VariablesDataExpressions\obj\Debug\netcoreapp2.2\HelloCSharp.pdb

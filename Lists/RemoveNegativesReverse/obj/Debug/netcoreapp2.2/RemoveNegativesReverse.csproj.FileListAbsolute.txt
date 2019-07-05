@@ -1,0 +1,11 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\RemoveNegativesReverse\bin\Debug\netcoreapp2.2\RemoveNegativesReverse.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\RemoveNegativesReverse\bin\Debug\netcoreapp2.2\RemoveNegativesReverse.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\RemoveNegativesReverse\bin\Debug\netcoreapp2.2\RemoveNegativesReverse.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\RemoveNegativesReverse\bin\Debug\netcoreapp2.2\RemoveNegativesReverse.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\RemoveNegativesReverse\bin\Debug\netcoreapp2.2\RemoveNegativesReverse.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\RemoveNegativesReverse\obj\Debug\netcoreapp2.2\RemoveNegativesReverse.csprojAssemblyReference.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\RemoveNegativesReverse\obj\Debug\netcoreapp2.2\RemoveNegativesReverse.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\RemoveNegativesReverse\obj\Debug\netcoreapp2.2\RemoveNegativesReverse.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\RemoveNegativesReverse\obj\Debug\netcoreapp2.2\RemoveNegativesReverse.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\RemoveNegativesReverse\obj\Debug\netcoreapp2.2\RemoveNegativesReverse.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\RemoveNegativesReverse\obj\Debug\netcoreapp2.2\RemoveNegativesReverse.pdb

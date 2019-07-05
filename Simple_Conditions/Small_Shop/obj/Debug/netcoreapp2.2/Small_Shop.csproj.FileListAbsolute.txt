@@ -1,0 +1,11 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\Small_Shop\bin\Debug\netcoreapp2.2\Small_Shop.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\Small_Shop\bin\Debug\netcoreapp2.2\Small_Shop.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\Small_Shop\bin\Debug\netcoreapp2.2\Small_Shop.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\Small_Shop\bin\Debug\netcoreapp2.2\Small_Shop.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\Small_Shop\bin\Debug\netcoreapp2.2\Small_Shop.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\Small_Shop\obj\Debug\netcoreapp2.2\Small_Shop.csprojAssemblyReference.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\Small_Shop\obj\Debug\netcoreapp2.2\Small_Shop.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\Small_Shop\obj\Debug\netcoreapp2.2\Small_Shop.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\Small_Shop\obj\Debug\netcoreapp2.2\Small_Shop.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\Small_Shop\obj\Debug\netcoreapp2.2\Small_Shop.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\Small_Shop\obj\Debug\netcoreapp2.2\Small_Shop.pdb

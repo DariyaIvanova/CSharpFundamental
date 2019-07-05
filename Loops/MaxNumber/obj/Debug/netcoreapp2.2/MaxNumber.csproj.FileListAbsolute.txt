@@ -1,0 +1,10 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\MaxNumber\bin\Debug\netcoreapp2.2\MaxNumber.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\MaxNumber\bin\Debug\netcoreapp2.2\MaxNumber.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\MaxNumber\bin\Debug\netcoreapp2.2\MaxNumber.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\MaxNumber\bin\Debug\netcoreapp2.2\MaxNumber.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\MaxNumber\bin\Debug\netcoreapp2.2\MaxNumber.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\MaxNumber\obj\Debug\netcoreapp2.2\MaxNumber.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\MaxNumber\obj\Debug\netcoreapp2.2\MaxNumber.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\MaxNumber\obj\Debug\netcoreapp2.2\MaxNumber.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\MaxNumber\obj\Debug\netcoreapp2.2\MaxNumber.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Conditional_Statements_And_Loops\Loops\MaxNumber\obj\Debug\netcoreapp2.2\MaxNumber.pdb

@@ -1,0 +1,11 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\BombNumbers\bin\Debug\netcoreapp2.2\BombNumbers.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\BombNumbers\bin\Debug\netcoreapp2.2\BombNumbers.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\BombNumbers\bin\Debug\netcoreapp2.2\BombNumbers.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\BombNumbers\bin\Debug\netcoreapp2.2\BombNumbers.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\BombNumbers\bin\Debug\netcoreapp2.2\BombNumbers.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\BombNumbers\obj\Debug\netcoreapp2.2\BombNumbers.csprojAssemblyReference.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\BombNumbers\obj\Debug\netcoreapp2.2\BombNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\BombNumbers\obj\Debug\netcoreapp2.2\BombNumbers.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\BombNumbers\obj\Debug\netcoreapp2.2\BombNumbers.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\BombNumbers\obj\Debug\netcoreapp2.2\BombNumbers.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\BombNumbers\obj\Debug\netcoreapp2.2\BombNumbers.pdb

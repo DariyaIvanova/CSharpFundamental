@@ -1,0 +1,11 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\MostFrequentNumber\bin\Debug\netcoreapp2.2\MostFrequentNumber.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\MostFrequentNumber\bin\Debug\netcoreapp2.2\MostFrequentNumber.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\MostFrequentNumber\bin\Debug\netcoreapp2.2\MostFrequentNumber.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\MostFrequentNumber\bin\Debug\netcoreapp2.2\MostFrequentNumber.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\MostFrequentNumber\bin\Debug\netcoreapp2.2\MostFrequentNumber.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\MostFrequentNumber\obj\Debug\netcoreapp2.2\MostFrequentNumber.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\MostFrequentNumber\obj\Debug\netcoreapp2.2\MostFrequentNumber.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\MostFrequentNumber\obj\Debug\netcoreapp2.2\MostFrequentNumber.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\MostFrequentNumber\obj\Debug\netcoreapp2.2\MostFrequentNumber.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\MostFrequentNumber\obj\Debug\netcoreapp2.2\MostFrequentNumber.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\MostFrequentNumber\obj\Debug\netcoreapp2.2\MostFrequentNumber.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\PairsOfDifference\bin\Debug\netcoreapp2.2\PairsOfDifference.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\PairsOfDifference\bin\Debug\netcoreapp2.2\PairsOfDifference.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\PairsOfDifference\bin\Debug\netcoreapp2.2\PairsOfDifference.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\PairsOfDifference\bin\Debug\netcoreapp2.2\PairsOfDifference.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\PairsOfDifference\bin\Debug\netcoreapp2.2\PairsOfDifference.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\PairsOfDifference\obj\Debug\netcoreapp2.2\PairsOfDifference.csprojAssemblyReference.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\PairsOfDifference\obj\Debug\netcoreapp2.2\PairsOfDifference.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\PairsOfDifference\obj\Debug\netcoreapp2.2\PairsOfDifference.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\PairsOfDifference\obj\Debug\netcoreapp2.2\PairsOfDifference.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\PairsOfDifference\obj\Debug\netcoreapp2.2\PairsOfDifference.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Arrays\PairsOfDifference\obj\Debug\netcoreapp2.2\PairsOfDifference.pdb

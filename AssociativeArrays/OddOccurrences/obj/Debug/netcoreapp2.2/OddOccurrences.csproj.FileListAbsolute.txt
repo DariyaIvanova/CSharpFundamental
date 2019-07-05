@@ -1,0 +1,11 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\OddOccurrences\bin\Debug\netcoreapp2.2\OddOccurrences.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\OddOccurrences\bin\Debug\netcoreapp2.2\OddOccurrences.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\OddOccurrences\bin\Debug\netcoreapp2.2\OddOccurrences.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\OddOccurrences\bin\Debug\netcoreapp2.2\OddOccurrences.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\OddOccurrences\bin\Debug\netcoreapp2.2\OddOccurrences.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\OddOccurrences\obj\Debug\netcoreapp2.2\OddOccurrences.csprojAssemblyReference.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\OddOccurrences\obj\Debug\netcoreapp2.2\OddOccurrences.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\OddOccurrences\obj\Debug\netcoreapp2.2\OddOccurrences.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\OddOccurrences\obj\Debug\netcoreapp2.2\OddOccurrences.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\OddOccurrences\obj\Debug\netcoreapp2.2\OddOccurrences.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\OddOccurrences\obj\Debug\netcoreapp2.2\OddOccurrences.pdb

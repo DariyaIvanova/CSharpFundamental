@@ -1,0 +1,10 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\FruitOrVegetables\bin\Debug\netcoreapp2.2\FruitOrVegetables.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\FruitOrVegetables\bin\Debug\netcoreapp2.2\FruitOrVegetables.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\FruitOrVegetables\bin\Debug\netcoreapp2.2\FruitOrVegetables.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\FruitOrVegetables\bin\Debug\netcoreapp2.2\FruitOrVegetables.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\FruitOrVegetables\bin\Debug\netcoreapp2.2\FruitOrVegetables.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\FruitOrVegetables\obj\Debug\netcoreapp2.2\FruitOrVegetables.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\FruitOrVegetables\obj\Debug\netcoreapp2.2\FruitOrVegetables.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\FruitOrVegetables\obj\Debug\netcoreapp2.2\FruitOrVegetables.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\FruitOrVegetables\obj\Debug\netcoreapp2.2\FruitOrVegetables.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Simple_Conditions\FruitOrVegetables\obj\Debug\netcoreapp2.2\FruitOrVegetables.pdb

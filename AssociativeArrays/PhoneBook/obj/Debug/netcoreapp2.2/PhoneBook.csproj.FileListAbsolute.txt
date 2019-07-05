@@ -1,0 +1,11 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\PhoneBook\bin\Debug\netcoreapp2.2\PhoneBook.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\PhoneBook\bin\Debug\netcoreapp2.2\PhoneBook.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\PhoneBook\bin\Debug\netcoreapp2.2\PhoneBook.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\PhoneBook\bin\Debug\netcoreapp2.2\PhoneBook.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\PhoneBook\bin\Debug\netcoreapp2.2\PhoneBook.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\PhoneBook\obj\Debug\netcoreapp2.2\PhoneBook.csprojAssemblyReference.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\PhoneBook\obj\Debug\netcoreapp2.2\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\PhoneBook\obj\Debug\netcoreapp2.2\PhoneBook.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\PhoneBook\obj\Debug\netcoreapp2.2\PhoneBook.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\PhoneBook\obj\Debug\netcoreapp2.2\PhoneBook.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\AssociativeArrays\PhoneBook\obj\Debug\netcoreapp2.2\PhoneBook.pdb

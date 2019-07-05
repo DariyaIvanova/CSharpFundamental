@@ -1,0 +1,11 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\SumReversedNumbers\bin\Debug\netcoreapp2.2\SumReversedNumbers.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\SumReversedNumbers\bin\Debug\netcoreapp2.2\SumReversedNumbers.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\SumReversedNumbers\bin\Debug\netcoreapp2.2\SumReversedNumbers.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\SumReversedNumbers\bin\Debug\netcoreapp2.2\SumReversedNumbers.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\SumReversedNumbers\bin\Debug\netcoreapp2.2\SumReversedNumbers.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\SumReversedNumbers\obj\Debug\netcoreapp2.2\SumReversedNumbers.csprojAssemblyReference.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\SumReversedNumbers\obj\Debug\netcoreapp2.2\SumReversedNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\SumReversedNumbers\obj\Debug\netcoreapp2.2\SumReversedNumbers.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\SumReversedNumbers\obj\Debug\netcoreapp2.2\SumReversedNumbers.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\SumReversedNumbers\obj\Debug\netcoreapp2.2\SumReversedNumbers.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\SumReversedNumbers\obj\Debug\netcoreapp2.2\SumReversedNumbers.pdb

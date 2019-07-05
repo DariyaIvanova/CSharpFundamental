@@ -1,0 +1,10 @@
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\SortNumbers\bin\Debug\netcoreapp2.2\SortNumbers.deps.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\SortNumbers\bin\Debug\netcoreapp2.2\SortNumbers.runtimeconfig.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\SortNumbers\bin\Debug\netcoreapp2.2\SortNumbers.runtimeconfig.dev.json
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\SortNumbers\bin\Debug\netcoreapp2.2\SortNumbers.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\SortNumbers\bin\Debug\netcoreapp2.2\SortNumbers.pdb
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\SortNumbers\obj\Debug\netcoreapp2.2\SortNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\SortNumbers\obj\Debug\netcoreapp2.2\SortNumbers.AssemblyInfoInputs.cache
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\SortNumbers\obj\Debug\netcoreapp2.2\SortNumbers.AssemblyInfo.cs
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\SortNumbers\obj\Debug\netcoreapp2.2\SortNumbers.dll
+C:\Users\Asen\Documents\CSharpFundamentals\Projects\Lists\SortNumbers\obj\Debug\netcoreapp2.2\SortNumbers.pdb
